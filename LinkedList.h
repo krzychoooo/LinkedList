@@ -15,7 +15,7 @@
 
 #include <stddef.h>
 
-namespace LinkedList{
+namespace LL{
 	
 template<class T>
 struct ListNode
